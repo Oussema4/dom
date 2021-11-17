@@ -29,7 +29,7 @@ for (let i = 0; i < plus.length; i++)
 Total()   
   });
 
-
+// this is update
 
 
   moin[i].addEventListener("click",function(){
